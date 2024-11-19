@@ -13,6 +13,6 @@ Yes, whenever a new file for the script is launched / published I will always up
 # Discord (for extra scripts)
 https://discord.gg/pf5jHJyCEx
 
-**How to contact me**
+**How to contact me:**
 cedar8819 on Discord
 @couldbecedar on Twitter / X (not responding as much)
